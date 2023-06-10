@@ -1,0 +1,484 @@
+Year,Option,Spec,Space,"Intial Admit
+Number","Inital Reject 
+Number","Final Admit 
+Number",Max grade,Min Grade
+2015,,,,,,,,
+2015,CPSC,,193,,,,,
+2015,CPSC,Major Cognitive Systems(1226): Computational Intelligence and Design,,9,15,10,87.58,70.33
+2015,CPSC,Major (0376): Computer Science (CPSC),,70,51,70,90.61,70.15
+2015,CPSC,Combined Major (1370): Computer Science and Biology,20,10,11,10,93,70.45
+2015,CPSC,Combined Major (1429): Computer Science and Mathematics,,27,10,27,94.21,70.19
+2015,CPSC,Combined Major (1371): Computer Science & Microbiology and Immunology,25,25,13,25,90,70.03
+2015,CPSC,Combined Major (1391): Computer Science and Physics,,19,11,19,92.7,70
+2015,CPSC,Combined Major (1375): Computer Science and Statistics,,33,15,33,89.54,70.2
+2015,Major ,,,,,,,
+2015,Major ,Major (0030): Astronomy (ASTR),,7,0,8,76.3,59.2
+2015,Major ,Major (0167): Atmospheric Science (ATSC),,2,0,2,,
+2015,Major ,Major (0244): Biochemistry (BIOC),124(+10),134,85,127,96.8,74
+2015,Major ,Major (3095): Biology (BIOL),380,359,0,379,92.5,53.15
+2015,Major ,Major (0409): Chemistry (CHEM),84(+9),93,18,81,91.62,68
+2015,Major ,Major Cognitive Systems(1225): Cognition and Brain,,49,0,59,86,50
+2015,Major ,Major (1223): Earth and Ocean Sciences (EOSC),,11,0,11,83.46,50.42
+2015,Major ,Major (1263): Environmental Sciences (ENSC),60,58,0,59,95.17,50.17
+2015,Major ,Major (3068) Geographical Biogeosciences,,12,0,13,81.9,59.22
+2015,Major ,Major (0001): Geophysics,,9,0,8,82.6,59
+2015,Major ,Major (3193): Geology,,38,0,38,86.8,57.1
+2015,Major ,Major (1682): Integrated Sciences (INSC),100,100,101,99,91,71.68
+2015,Major ,Major (0456): Mathematics (MATH),,47,0,55,91.35,54.5
+2015,Major ,Major (0185): Mathematical Sciences (MASC),,4,0,8,79.61,69.38
+2015,Major ,Major (1153): Microbiology and Immunology (MBIM),125,125,208,124,95.9,79.4
+2015,Major ,Major (0311): Pharmacology (PCTH),25,25,85,25,96.6,88.13
+2015,Major ,Major (0524) Physics (PHYS),,54,0,54,91.85,54
+2015,Major ,Major (0495): Psychology (PSYC),45,45,10,45,92.88,70.12
+2015,Major ,Major (0562): Statistics (STAT),,46,0,61,90,48.28
+2015,Combined Majors,,,,,,,
+2015,Combined Majors,"Combined Major (3440): Chemical Biology (BIOL, CHEM)",20,20,29,18,88.8,71.86
+2015,Combined Majors,Combined Major (3096): Science,200,115,0,153,88.84,48.09
+2015,Combined Majors,Combined Major (3144): Microbiology and Oceanography,10,3,0,10,79.43,73.75
+2015,Combined Majors,Combined Major (3125): Oceanography and Biology,,6,0,8,78.33,60.33
+2015,Combined Majors,Combined Major (3126): Oceanography and Physics,,0,0,0,,
+2015,Honours,,,,,,,
+2015,Honours,Honours (1093): Biophysics (BIOP),25,25,9,9,83.79,71.45
+2015,Honours,Honours (1136): Biotechnology,20,20,0,21,87.06,72.52
+2015,Honours,Honours (0577): Fisheries Oceanography,2,0,0,0,0,0
+2015,Honours,Honours (0166): Mathematics (MATH),,15,0,16,92.43,75
+2015,Honours,Honours (0344): Physics (PHYS),,12,0,12,84.8,74
+2015,Honours,"Honours (3221): Cellular, Anatomical and Physiological Sciences (CAPS)",20,20,43,20,93.2,86.65
+2015,Combined Honours,,,,,,,
+2015,Combined Honours,"Combined Honours (0565): Biochemistry and Chemistry (BIOC, CHEM)",8,8,1,8,93.84,72.64
+2015,Combined Honours,"Combined Honours (0206): Chemistry and Mathematics (CHEM, MATH)",2,2,0,2,86.75,73.33
+2015,Combined Honours,"Combined Honours (0517): Chemical Physics (CHEM, PHYS)",2,0,0,0,,
+2015,Combined Honours,"Combined Honours (0535): Oceanography and Biology (OCGY, BIOL)",2,0,0,0,,
+2015,Combined Honours,"Combined Honours (0009): Physics and Astronomy (PHYS, ASTR)",,5,0,5,84.9,80.03
+2015,Combined Honours,"Combined Honours (0014): Physics and Mathematics (PHYS, MATH)",,12,0,12,93.67,72.38
+2016,,,,,,,,
+2016,CPSC,,152+16=168,,,,,
+2016,CPSC,Major Cognitive Systems(1226): Computational Intelligence and Design,,5,39,4,,
+2016,CPSC,Major (0376): Computer Science (CPSC),,82,145,81,93.9,77.3
+2016,CPSC,Combined Major (1370): Computer Science and Biology,20,3,10,3,,
+2016,CPSC,Combined Major (3401): Computer Science and Chemistry,4,2,5,2,,
+2016,CPSC,Combined Major (1429): Computer Science and Mathematics,,22,47,22,92.7,77.3
+2016,CPSC,Combined Major (1371): Computer Science & Microbiology and Immunology,25,16,20,16,90.6,78.5
+2016,CPSC,Combined Major (1391): Computer Science and Physics,,11,23,11,96,78.5
+2016,CPSC,Combined Major (1375): Computer Science and Statistics,,27,54,27,96.2,78
+2016,Major,,,,,,,
+2016,Major,Major (0030): Astronomy (ASTR),,5,0,5,83,52.1
+2016,Major,Major (0167): Atmospheric Science (ATSC),,0,0,0,0,0
+2016,Major,Major (0244): Biochemistry (BIOC),127-2yr3+10(overbook)=135,135,32,124,93.7,72.7
+2016,Major,Major (3095): Biology (BIOL),280,356,0,380,93.4,50
+2016,Major,Major (0409): Chemistry (CHEM),90+10(overbook),95,1,87,90.3,63.3
+2016,Major,Major Cognitive Systems(1225): Cognition and Brain,,60,0,70,87.5,52
+2016,Major,Major (1223): Earth and Ocean Sciences (EOSC),,12,0,14,83.6,70.5
+2016,Major,Major (1263): Environmental Sciences (ENSC),60,60,4,59,92.4,60.3
+2016,Major,Major (3428) Geographical Sciences,,12,0,14,87.4,51.5
+2016,Major,Major (0001): Geophysics,,4,0,4,,
+2016,Major,Major (3193): Geology,,14,0,18,86.3,62.8
+2016,Major,Major (1682): Integrated Sciences (INSC),100,100,104,98,94.5,74.7
+2016,Major,Major (0456): Mathematics (MATH),,60,0,82,92,49
+2016,Major,Major (0185): Mathematical Sciences (MASC),,24,0,41,85.8,53.1
+2016,Major,Major (1153): Microbiology and Immunology (MBIM),125,125,248,116,94.3,82.7
+2016,Major,Major (0311): Pharmacology (PCTH),25,25,115,24,93.5,87.8
+2016,Major,Major (0524) Physics (PHYS),,49,0,58,89.7,49.4
+2016,Major,Major (0495): Psychology (PSYC),45,45,21,45,89.1,70.3
+2016,Major,Major (0562): Statistics (STAT),,80,0,90,91.7,51.5
+2016,Combined Majors,,,,,,,
+2016,Combined Majors,"Combined Major (3382): Biochemistry, Chemistry (BIOC, CHEM)",5,5,0,5,83.5,77.7
+2016,Combined Majors,"Combined Major (3440): Chemical Biology (BIOL, CHEM)",35,34,3,33,86.5,66.9
+2016,Combined Majors,Combined Major (3096): Science,200,110,0,162,88.6,52
+2016,Combined Majors,Combined Major (3144): Microbiology and Oceanography,10,5,0,10,81.7,66.2
+2016,Combined Majors,Combined Major (3125): Oceanography and Biology,,7,0,12,78.9,66.8
+2016,Combined Majors,Combined Major (3383): Oceanography and Chemistry,1,1,0,1,,
+2016,Combined Majors,Combined Major (3126): Oceanography and Physics,,0,0,0,0,0
+2016,Honours,,,,,,,
+2016,Honours,Honours (1093): Biophysics (BIOP),25,6,0,7,89.7,73.5
+2016,Honours,Honours (1136): Biotechnology,21 (1 admit 2nd yr),21,11,21,89.3,78.5
+2016,Honours,Honours (0577): Fisheries Oceanography,2,0,0,0,0,0
+2016,Honours,Honours (0166): Mathematics (MATH),,10,0,10,91.3,71.3
+2016,Honours,Honours (0344): Physics (PHYS),,7,0,6,94.3,73.8
+2016,Honours,"Honours (3221): Cellular, Anatomical and Physiological Sciences (CAPS)",30,30,75,29,95.9,88.3
+2016,Combined Honours,,,,,,,
+2016,Combined Honours,"Combined Honours (0565): Biochemistry and Chemistry (BIOC, CHEM)",8,4,2,5,84.1,76
+2016,Combined Honours,"Combined Honours (0206): Chemistry and Mathematics (CHEM, MATH)",2,2,0,2,,
+2016,Combined Honours,"Combined Honours (0517): Chemical Physics (CHEM, PHYS)",2,2,2,2,,
+2016,Combined Honours,"Combined Honours (0535): Oceanography and Biology (OCGY, BIOL)",2,1,0,1,,
+2016,Combined Honours,"Combined Honours (0009): Physics and Astronomy (PHYS, ASTR)",,6,0,6,85,73.3
+2016,Combined Honours,"Combined Honours (0014): Physics and Mathematics (PHYS, MATH)",,4,0,4,,
+2017,,,,,,,,
+2017,CPSC,,260,,,,,
+2017,CPSC,Major Cognitive Systems(1226): Computational Intelligence and Design,,11,105,11,90.95,78.68
+2017,CPSC,Major (0376): Computer Science (CPSC),,154,190,154,97.53,78.4
+2017,CPSC,Combined Major (1370): Computer Science and Biology,20,4,14,4,,
+2017,CPSC,Combined Major (3401): Computer Science and Chemistry,4,1,8,1,,
+2017,CPSC,Combined Major (1429): Computer Science and Mathematics,,22,44,22,90.39,78.7
+2017,CPSC,Combined Major (1371): Computer Science & Microbiology and Immunology,25,15,5,15,90,78.76
+2017,CPSC,Combined Major (1391): Computer Science and Physics,,19,15,19,97,79.02
+2017,CPSC,Combined Major (1375): Computer Science and Statistics (Also in STAT umbrella),,34,75,35,92.89,78.38
+2017,CPSC,Major (0185): Mathematical Sciences (MASC) (Also in STAT umbrella),,24,9,24,87.71,69.51
+2017,STAT,,120,,,,,
+2017,STAT,Major (0562): Statistics (STAT),,62,40,61,90.72,69.38
+2017,STAT,Combined Major (1375): Computer Science and Statistics (Also in CPSC umbrella),,34,75,35,92.89,78.38
+2017,STAT,Major (0185): Mathematical Sciences (MASC) (Also in CPSC umbrella),,24,9,24,87.71,69.51
+2017,COGS,,60,,,,,
+2017,COGS,Major Cognitive Systems(1225): Cognition and Brain,,49,42,49,80.4,69.06
+2017,COGS,Major Cognitive Systems(1226): Computational Intelligence and Design (Also in CPSC umbrella),,11,105,11,90.95,78.68
+2017,Major,,,,,,,
+2017,Major,Major (0030): Astronomy (ASTR),,9,0,10,86.1,61.15
+2017,Major,Major (0167): Atmospheric Science (ATSC),,3,0,4,,
+2017,Major,Major (3502): Behavioural Neuroscience (PSYC),45,45,78,45,91.64,77.13
+2017,Major,Major (0244): Biochemistry (BIOC),124+10(overbook)=134,134,13,127,94.28,67.43
+2017,Major,Major (3095): Biology (BIOL),380,380,50,380,92.7,64.07
+2017,Major,Major (0409): Chemistry (CHEM),90+10(overbook)=100,66,0,72,90,58.48
+2017,Major,Major (1223): Earth and Ocean Sciences (EOSC),,20,0,34,78.67,50.82
+2017,Major,Major (1263): Environmental Sciences (ENSC),60,60,21,60,89.56,65
+2017,Major,Major (3428) Geographical Sciences,,3,0,6,73.09,57.5
+2017,Major,Major (0001): Geophysics,,3,0,3,,
+2017,Major,Major (3193): Geology,,22,0,27,83.72,55.12
+2017,Major,Major (1682): Integrated Sciences (INSC),100,100,138,100,93.84,76.64
+2017,Major,Major (0456): Mathematics (MATH),,77,0,119,87.8,56.13
+2017,Major,Major (1153): Microbiology and Immunology (MBIM),125,125,170,125,94.88,80.03
+2017,Major,Major (0311): Pharmacology (PCTH),25,25,76,25,95.51,88.29
+2017,Major,Major (0524) Physics (PHYS),,34,0,40,88.2,60.63
+2017,Combined Major,,,,,,,
+2017,Combined Major,"Combined Major (3382): Biochemistry, Chemistry (BIOC, CHEM)",13,13,3,13,91.87,76.87
+2017,Combined Major,"Combined Major (3440): Chemical Biology (BIOL, CHEM)",35,35,13,35,90.68,65.4
+2017,Combined Major,Combined Major (3096): Science,200,114,0,221,95.63,50.68
+2017,Combined Major,Combined Major (3144): Microbiology and Oceanography,10,4,0,10,77,62.39
+2017,Combined Major,Combined Major (3125): Oceanography and Biology,,14,0,24,84,59.14
+2017,Combined Major,Combined Major (3383): Oceanography and Chemistry,1,1,1,1,,
+2017,Combined Major,Combined Major (3126): Oceanography and Physics,,0,0,0,0,0
+2017,Honours,,,,,,,
+2017,Honours,Honours (1093): Biophysics (BIOP),25,10,0,10,86.9,82.23
+2017,Honours,Honours (1136): Biotechnology,22,22,22,22,89.4,70.75
+2017,Honours,Honours (0577): Fisheries Oceanography,2,0,0,1,,
+2017,Honours,Honours (0166): Mathematics (MATH),,9,0,10,92.96,78.16
+2017,Honours,Honours (0344): Physics (PHYS),,13,0,13,88.84,75
+2017,Honours,"Honours (3221): Cellular, Anatomical and Physiological Sciences (CAPS)",30,30,37,30,95.46,86.75
+2017,Combined Honours,,,,,,,
+2017,Combined Honours,"Combined Honours (0206): Chemistry and Mathematics (CHEM, MATH)",2,0,0,0,0,0
+2017,Combined Honours,"Combined Honours (0517): Chemical Physics (CHEM, PHYS)",2,0,0,0,0,0
+2017,Combined Honours,"Combined Honours (0535): Oceanography and Biology (OCGY, BIOL)",,15,0,15,91.63,74.79
+2017,Combined Honours,"Combined Honours (0009): Physics and Astronomy (PHYS, ASTR)",,11,0,13,91.9,74.53
+2017,Combined Honours,"Combined Honours (0014): Physics and Mathematics (PHYS, MATH)",,,,,,
+2018,,,,,,,,
+2018,CPSC (Excluding CPSC Major Domestic Student),,175(+2 ELTR),,,,,
+2018,CPSC (Excluding CPSC Major Domestic Student),Major Cognitive Systems(1226): Computational Intelligence and Design,,19,52,19,90.14,79.15
+2018,CPSC (Excluding CPSC Major Domestic Student),Major (0376): Computer Science (CPSC) International students only,,63,104,64,89.8,79.2
+2018,CPSC (Excluding CPSC Major Domestic Student),Combined Major (1370): Computer Science and Biology,20,3,15,3,,
+2018,CPSC (Excluding CPSC Major Domestic Student),Combined Major (3401): Computer Science and Chemistry,4,1,4,1,,
+2018,CPSC (Excluding CPSC Major Domestic Student),Combined Major (1429): Computer Science and Mathematics,,25,27,25,98.2,80.36
+2018,CPSC (Excluding CPSC Major Domestic Student),Combined Major (1371): Computer Science & Microbiology and Immunology,25,7,6,7,91.17,79.3
+2018,CPSC (Excluding CPSC Major Domestic Student),Combined Major (1391): Computer Science and Physics,,6,9,6,93.89,83.11
+2018,CPSC (Excluding CPSC Major Domestic Student),Combined Major (1375): Computer Science and Statistics (Also in STAT umbrella),,45,22,45,96.35,79.93
+2018,CPSC (Excluding CPSC Major Domestic Student),Major (0185): Mathematical Sciences (MASC) (Also in STAT umbrella),,5,33,5,89.3,82.69
+2018,STAT,,120,,,,,
+2018,STAT,Major (0562): Statistics (STAT),,70,46,70,89,72
+2018,STAT,Combined Major (1375): Computer Science and Statistics (Also in CPSC umbrella),,45,22,45,96.35,79.93
+2018,STAT,Major (0185): Mathematical Sciences (MASC) (Also in CPSC umbrella),,5,33,5,89.3,82.69
+2018,COGS,,60,,,,,
+2018,COGS,Major Cognitive Systems(1225): Cognition and Brain,,41,33,41,87.09,69.92
+2018,COGS,Major Cognitive Systems(1226): Computational Intelligence and Design (Also in CPSC umbrella),,19,52,19,90.14,79.75
+2018,Major,,,,,,,
+2018,Major,Major (0030): Astronomy (ASTR),,2,,4,,
+2018,Major,Major (0167): Atmospheric Science (ATSC),,3,,3,,
+2018,Major,Major (3502): Behavioural Neuroscience (PSYC),90,90,,90,89.51,70.27
+2018,Major,Major (0244): Biochemistry (BIOC),105+10(overbook)+3(by Warren)(16 spots for forensics),110,,106,91.82,57.78
+2018,Major,Major (3095): Biology (BIOL),380,360,,378,92.77,47.42
+2018,Major,Major (0409): Chemistry (CHEM),90+10(overbook)=100,71,,66,92.75,57.5
+2018,Major,Major (0376): Computer Science (CPSC) Domestic Students Only,143,143,,143,93.16,73.17
+2018,Major,Major (1223): Earth and Ocean Sciences (EOSC),,17,,18,75.5,54.44
+2018,Major,Major (1263): Environmental Sciences (ENSC),60,60,,59,85.8,58.1
+2018,Major,Major (3428) Geographical Sciences,,10,,10,81.4,75.6
+2018,Major,Major (0001): Geophysics,,5,,6,86.46,76.3
+2018,Major,Major (3193): Geology,,20,,20,87.03,56.14
+2018,Major,Major (1682): Integrated Sciences (INSC),100,100,,99,93.31,74.51
+2018,Major,Major (0456): Mathematics (MATH),135,105,,134,95.29,54.2
+2018,Major,Major (1153): Microbiology and Immunology (MBIM),125,125,,124,94.06,79
+2018,Major,Major (0311): Pharmacology (PCTH),25,25,,25,96.09,86.7
+2018,Major,Major (0524) Physics (PHYS),,29,,28,85.6,53.2
+2018,Combined Major,,,,,,,
+2018,Combined Major,"Combined Major (3382): Biochemistry, Chemistry (BIOC, CHEM)",13,13,,13,86.96,71.47
+2018,Combined Major,"Combined Major (3440): Chemical Biology (BIOL, CHEM)",35,35,,36,92.16,70.54
+2018,Combined Major,Combined Major (3096): Science,200,78,,131,91.59,45.9
+2018,Combined Major,Combined Major (3144): Microbiology and Oceanography,10,9,,10,85.12,68.4
+2018,Combined Major,Combined Major (3125): Oceanography and Biology,,10,,11,73.87,61.78
+2018,Combined Major,Combined Major (3383): Oceanography and Chemistry,1,2,,2,,
+2018,Combined Major,Combined Major (3126): Oceanography and Physics,,0,,0,0,0
+2018,Honours,,,,,,,
+2018,Honours,Honours (1093): Biophysics (BIOP),25,6,,6,93.56,73.79
+2018,Honours,Honours (1136): Biotechnology,20(+1 reserved)(+1 ELTR),20,,20,93.8,72.22
+2018,Honours,Honours (0577): Fisheries Oceanography,2,0,,0,0,0
+2018,Honours,Honours (0166): Mathematics (MATH),20,16,,18,93.44,72.81
+2018,Honours,Honours (0344): Physics (PHYS),,8,,10,88.16,71.96
+2018,Honours,"Honours (3221): Cellular, Anatomical and Physiological Sciences (CAPS)",30,30,,30,96.17,83.64
+2018,Combined Honours,,,,,,,
+2018,Combined Honours,Combined Honours (3508): Biochemistry and Forensic Science,16,15,,15,89.32,70.93
+2018,Combined Honours,"Combined Honours (0206): Chemistry and Mathematics (CHEM, MATH)",2,1,,1,,
+2018,Combined Honours,"Combined Honours (0517): Chemical Physics (CHEM, PHYS)",2,1,,2,,
+2018,Combined Honours,"Combined Honours (0535): Oceanography and Biology (OCGY, BIOL)",,12,,11,93.65,74.57
+2018,Combined Honours,"Combined Honours (0009): Physics and Astronomy (PHYS, ASTR)",,8,,8,94.37,71.45
+2018,Combined Honours,"Combined Honours (0014): Physics and Mathematics (PHYS, MATH)",,,,,,
+2019,,,,,,,,
+2019,CPSC (Excluding Domestic Student),,119,,,,,
+2019,CPSC (Excluding Domestic Student),Major Cognitive Systems(1226): Computational Intelligence and Design,5,2,31,2,,
+2019,CPSC (Excluding Domestic Student),Major (0376): Computer Science (CPSC) International Students Only,,69,37,70,95.6,81.72
+2019,CPSC (Excluding Domestic Student),Combined Major (1370): Computer Science and Biology,7,1,0,1,,
+2019,CPSC (Excluding Domestic Student),Combined Major (3401): Computer Science and Chemistry,,0,1,0,,
+2019,CPSC (Excluding Domestic Student),Combined Major (1429): Computer Science and Mathematics,,22,12,23,96.1,88.1
+2019,CPSC (Excluding Domestic Student),Combined Major (1371): Computer Science & Microbiology and Immunology,8,2,0,3,,
+2019,CPSC (Excluding Domestic Student),Combined Major (1391): Computer Science and Physics,,2,3,2,,
+2019,CPSC (Excluding Domestic Student),Combined Major (1375): Computer Science and Statistics (Also in STAT umbrella),,20,19,20,93.2,82.12
+2019,CPSC (Excluding Domestic Student),Major (0185): Mathematical Sciences (MASC) (Also in STAT umbrella),2,1,18,1,,
+2019,CPSC (Excluding International Students),,280,,,,,
+2019,CPSC (Excluding International Students),Major Cognitive Systems(1226): Computational Intelligence and Design,10,10,11,10,87.51,76.41
+2019,CPSC (Excluding International Students),Major (0376): Computer Science (CPSC) Domestic Students Only,,204,17,205,94.5,69.14
+2019,CPSC (Excluding International Students),Combined Major (1370): Computer Science and Biology,13,7,0,7,91.72,69.7
+2019,CPSC (Excluding International Students),Combined Major (3401): Computer Science and Chemistry,,0,0,0,0,0
+2019,CPSC (Excluding International Students),Combined Major (1429): Computer Science and Mathematics,,24,3,24,98.72,72.4
+2019,CPSC (Excluding International Students),Combined Major (1371): Computer Science & Microbiology and Immunology,17,3,0,3,,
+2019,CPSC (Excluding International Students),Combined Major (1391): Computer Science and Physics,,7,0,7,90,79.2
+2019,CPSC (Excluding International Students),Combined Major (1375): Computer Science and Statistics (Also in STAT umbrella),,22,2,22,90.71,74
+2019,CPSC (Excluding International Students),Major (0185): Mathematical Sciences (MASC) (Also in STAT umbrella),3,3,6,3,,
+2019,STAT,,120,,,,,
+2019,STAT,Major (0562): Statistics (STAT),,74,51,73,92.04,72.6
+2019,STAT,Combined Major (1375): Computer Science and Statistics (Also in CPSC umbrella),,42,21,42,93.2,74
+2019,STAT,Major (0185): Mathematical Sciences (MASC) (Also in CPSC umbrella),"5 (2 ISI, 3 Domestic)",3,24,3,,
+2019,COGS,,60,,,,,
+2019,COGS,Major Cognitive Systems(1225): Cognition and Brain,,48,69,48,92.74,72.2
+2019,COGS,Major Cognitive Systems(1226): Computational Intelligence and Design (Also in CPSC umbrella),"15 (5 ISI, 10 Domestic)",12,42,12,87.51,76.47
+2019,Major,,,,,,,
+2019,Major,Major (0030): Astronomy (ASTR),,5,0,5,78.14,70.6
+2019,Major,Major (0167): Atmospheric Science (ATSC),,5,0,6,88.1,73.06
+2019,Major,Major (3502): Behavioural Neuroscience (PSYC),89,89,105,89,96.8,74.75
+2019,Major,Major (0244): Biochemistry (BIOC),116,109,0,116,92.2,59.5
+2019,Major,Major (3095): Biology (BIOL),378,378,36,379,91.24,63.64
+2019,Major,Major (0409): Chemistry (CHEM),90,48,0,47,90.83,58.8
+2019,Major,Major (1223): Earth and Ocean Sciences (EOSC),,16,0,24,84.8,58.06
+2019,Major,Major (1263): Environmental Sciences (ENSC),60,60,21,60,90.82,65.72
+2019,Major,Major (3428) Geographical Sciences,,11,0,14,88.11,54.87
+2019,Major,Major (0001): Geophysics,,3,0,3,,
+2019,Major,Major (3193): Geology,,15,0,20,86.4,59.1
+2019,Major,Major (1682): Integrated Sciences (INSC),100,100,120,100,94.31,76.93
+2019,Major,Major (0456): Mathematics (MATH),135,91,0,124,92.5,53.56
+2019,Major,Major (1153): Microbiology and Immunology (MBIM),110,110,158,110,93.61,79.72
+2019,Major,Major (0311): Pharmacology (PCTH),25,25,66,25,93.59,87.11
+2019,Major,Major (0524) Physics (PHYS),,36,0,37,86.8,55.68
+2019,Combined Major,,,,,,,
+2019,Combined Major,"Combined Major (3382): Biochemistry, Chemistry (BIOC, CHEM)",13,7,0,9,85.09,63.93
+2019,Combined Major,"Combined Major (3440): Chemical Biology (BIOL, CHEM)",39,39,31,38,93.4,72.9
+2019,Combined Major,Combined Major (3096): Science,200,108,0,190,93.64,43.6
+2019,Combined Major,Combined Major (3144): Microbiology and Oceanography,10,10,0,10,82.89,69.17
+2019,Combined Major,Combined Major (3125): Oceanography and Biology,,18,0,25,80.41,42
+2019,Combined Major,Combined Major (3383): Oceanography and Chemistry,,1,0,1,,
+2019,Combined Major,Combined Major (3126): Oceanography and Physics,,0,0,0,,
+2019,Honours,,,,,,,
+2019,Honours,Honours (1093): Biophysics (BIOP),25,5,0,5,97.12,77.3
+2019,Honours,Honours (1136): Biotechnology,21,20,0,19,91.29,72.25
+2019,Honours,Honours (0577): Fisheries Oceanography,2,0,0,0,,
+2019,Honours,Honours (0166): Mathematics (MATH),20,6,0,6,86.25,76.3
+2019,Honours,Honours (0344): Physics (PHYS),,11,0,11,88.6,76.66
+2019,Honours,"Honours (3221): Cellular, Anatomical and Physiological Sciences (CAPS)",29,29,29,29,97.19,83.25
+2019,Combined Honours,,,,,,,
+2019,Combined Honours,Combined Honours (3508): Biochemistry and Forensic Science,18,18,3,18,89.93,73.48
+2019,Combined Honours,"Combined Honours (0206): Chemistry and Mathematics (CHEM, MATH)",,2,0,2,,
+2019,Combined Honours,"Combined Honours (0517): Chemical Physics (CHEM, PHYS)",,3,0,3,,
+2019,Combined Honours,"Combined Honours (0009): Physics and Astronomy (PHYS, ASTR)",,7,0,7,87.9,75.6
+2019,Combined Honours,"Combined Honours (0014): Physics and Mathematics (PHYS, MATH)",,8,0,9,95.77,79.5
+,,,,,,,,
+2020,CPSC (Excluding Domestic Student),,(122+22)-1 ELTR = 141,,,,,
+2020,CPSC (Excluding Domestic Student),Major Cognitive Systems(1226): Computational Intelligence and Design,5,3,46,3,,
+2020,CPSC (Excluding Domestic Student),Major (0376): Computer Science (CPSC) International Students Only,,77,111,81,94.13,83.53
+2020,CPSC (Excluding Domestic Student),Combined Major (1370): Computer Science and Biology,7,2,0,2,,
+2020,CPSC (Excluding Domestic Student),Combined Major (3401): Computer Science and Chemistry,,0,1,0,0,0
+2020,CPSC (Excluding Domestic Student),Combined Major (1429): Computer Science and Mathematics,,15,21,15,92.28,83.83
+2020,CPSC (Excluding Domestic Student),Combined Major (1371): Computer Science & Microbiology and Immunology,8,1,0,1,,
+2020,CPSC (Excluding Domestic Student),Combined Major (1391): Computer Science and Physics,,7,5,7,94.37,83.83
+2020,CPSC (Excluding Domestic Student),Combined Major (1375): Computer Science and Statistics (Also in STAT umbrella),,,34,36,95.4,83.53
+2020,CPSC (Excluding Domestic Student),Major (0185): Mathematical Sciences (MASC) (Also in STAT umbrella),2,1,30,1,,
+2020,CPSC (Excluding International Students),,290,,,,,
+2020,CPSC (Excluding International Students),Major Cognitive Systems(1226): Computational Intelligence and Design,10,10,68,10,89,82.57
+2020,CPSC (Excluding International Students),Major (0376): Computer Science (CPSC) Domestic Students Only,,215,121,217,96.68,79.9
+2020,CPSC (Excluding International Students),Combined Major (1370): Computer Science and Biology,13,3,7,3,,
+2020,CPSC (Excluding International Students),Combined Major (3401): Computer Science and Chemistry,,1,0,1,,
+2020,CPSC (Excluding International Students),Combined Major (1429): Computer Science and Mathematics,,19,16,19,95.84,80.6
+2020,CPSC (Excluding International Students),Combined Major (1371): Computer Science & Microbiology and Immunology,17,9,2,9,95,83.51
+2020,CPSC (Excluding International Students),Combined Major (1391): Computer Science and Physics,,8,3,8,93,80.32
+2020,CPSC (Excluding International Students),Combined Major (1375): Computer Science and Statistics (Also in STAT umbrella),,23,48,23,93.87,80.4
+2020,CPSC (Excluding International Students),Major (0185): Mathematical Sciences (MASC) (Also in STAT umbrella),3,3,14,3,,
+2020,STAT,,140-1 ELTR = 149,,,,,
+2020,STAT,Major (0562): Statistics (STAT),,87,147,86,93.92,79.18
+2020,STAT,Combined Major (1375): Computer Science and Statistics (Also in CPSC umbrella),,58,66,59,95.4,80.4
+2020,STAT,Major (0185): Mathematical Sciences (MASC) (Also in CPSC umbrella),"5 (2 ISI, 3 Domestic)",4,44,4,,
+2020,COGS,,64 - 1 ELTR = 63,,,,,
+2020,COGS,Major Cognitive Systems(1225): Cognition and Brain,,50,57,51,89.77,74.93
+2020,COGS,Major Cognitive Systems(1226): Computational Intelligence and Design (Also in CPSC umbrella),"15 (5 ISI, 10 Domestic)",13,114,13,91.4,82.57
+2020,Major,,,,,,,
+2020,Major,Major (0030): Astronomy (ASTR),,10,0,10,84.25,67.37
+2020,Major,Major (0167): Atmospheric Science (ATSC),,3,0,3,,
+2020,Major,Major (3502): Behavioural Neuroscience (PSYC),93,93,73,93,92.2,76
+2020,Major,Major (0244): Biochemistry (BIOC),121,121,32,119,93.4,74.34
+2020,Major,Major (3095): Biology (BIOL),380 - 2 ELTR = 393,371,0,386,95.96,52.78
+2020,Major,Major (0409): Chemistry (CHEM),90,80,0,87,91.15,57.69
+2020,Major,Major (1223): Earth and Ocean Sciences (EOSC),,28,0,37,93.51,59.81
+2020,Major,Major (1263): Environmental Sciences (ENSC),64,64,7,61,92.58,62.83
+2020,Major,Major (3428) Geographical Sciences,,14,0,17,85.44,55.85
+2020,Major,Major (0001): Geophysics,,7,0,7,93.5,75.6
+2020,Major,Major (3193): Geology,,19,0,21,88.1,66.09
+2020,Major,Major (1682): Integrated Sciences (INSC),104,104,91,102,95.89,76.9
+2020,Major,Major (0456): Mathematics (MATH),161 (20 seats added July 6),141,23,159,93.96,68.15
+2020,Major,Major (1153): Microbiology and Immunology (MBIM),115 - 1 ELTR = 114,114,185,114,94.8,82.96
+2020,Major,Major (0311): Pharmacology (PCTH),26,26,77,26,96.54,87.4
+2020,Major,Major (0524) Physics (PHYS),,36,0,44,92.96,55.62
+2020,Combined Major,,,,,,,
+2020,Combined Major,"Combined Major (3382): Biochemistry, Chemistry (BIOC, CHEM)",13,13,10,12,94.8,79.59
+2020,Combined Major,"Combined Major (3440): Chemical Biology (BIOL, CHEM)",42,42,23,41,94.93,75.76
+2020,Combined Major,Combined Major (3096): Science,200,69,0,189,91.1,51.92
+2020,Combined Major,Combined Major (3144): Microbiology and Oceanography,11,7,0,11,82.6,69.6
+2020,Combined Major,Combined Major (3125): Oceanography and Biology,,14,0,18,94.7,63.55
+2020,Combined Major,Combined Major (3383): Oceanography and Chemistry,,2,0,2,,
+2020,Combined Major,Combined Major (3126): Oceanography and Physics,,2,0,2,,
+2020,Honours,,,,,,,
+2020,Honours,Honours (1136): Biotechnology,21,13,0,16,73.96,89.25
+2020,Honours,Honours (0577): Fisheries Oceanography,2,0,0,0,0,0
+2020,Honours,Honours (0166): Mathematics (MATH),20,15,0,19,99.4,75.2
+2020,Honours,Honours (0344): Physics (PHYS),,14,0,13,94.9,74.68
+2020,Honours,"Honours (3221): Cellular, Anatomical and Physiological Sciences (CAPS)",29,30,55,30,94.75,87.7
+2020,Combined Honours,,,,,,,
+2020,Combined Honours,Combined Honours (3508): Biochemistry and Forensic Science,17,15,0,17,94.84,71.23
+2020,Combined Honours,Honours (1093): Biophysics (BIOP),25,5,0,5,93.12,77.8
+2020,Combined Honours,"Combined Honours (0206): Chemistry and Mathematics (CHEM, MATH)",,1,0,2,,
+2020,Combined Honours,"Combined Honours (0517): Chemical Physics (CHEM, PHYS)",,2,0,3,,
+2020,Combined Honours,"Combined Honours (0009): Physics and Astronomy (PHYS, ASTR)",,13,0,13,90.7,76.33
+2020,Combined Honours,"Combined Honours (0014): Physics and Mathematics (PHYS, MATH)",,12,0,13,96.5,73.34
+2021,,,,,,,,
+2021,CPSC (Excluding Domestic Student),,142,143,213,144,95.09,82.25
+2021,CPSC (Excluding Domestic Student),Major Cognitive Systems(1226): Computational Intelligence and Design,5,4,26,4,87.42,82.93
+2021,CPSC (Excluding Domestic Student),Major (0376): Computer Science (CPSC) International Students Only,,114,105,115,95.09,82.25
+2021,CPSC (Excluding Domestic Student),Combined Major (1370): Computer Science and Biology,7,0,1,0,0,0
+2021,CPSC (Excluding Domestic Student),Combined Major (3401): Computer Science and Chemistry,,0,2,0,0,0
+2021,CPSC (Excluding Domestic Student),Combined Major (1429): Computer Science and Mathematics,,5,16,5,88,82.7
+2021,CPSC (Excluding Domestic Student),Combined Major (1371): Computer Science & Microbiology and Immunology,8,0,0,0,0,0
+2021,CPSC (Excluding Domestic Student),Combined Major (1391): Computer Science and Physics,,2,5,2,87.59,85.1
+2021,CPSC (Excluding Domestic Student),Combined Major (1375): Computer Science and Statistics (Also in STAT umbrella),,18,29,18,92.21,82.4
+2021,CPSC (Excluding Domestic Student),Major (0185): Mathematical Sciences (MASC) (Also in STAT umbrella),2,0,29,0,0,0
+2021,CPSC (Excluding International Students),,290,290,305,290,97.19,82.33
+2021,CPSC (Excluding International Students),Major Cognitive Systems(1226): Computational Intelligence and Design,10,7,35,7,92.92,82.7
+2021,CPSC (Excluding International Students),Major (0376): Computer Science (CPSC) Domestic Students Only,,216,173,216,97.19,82.33
+2021,CPSC (Excluding International Students),Combined Major (1370): Computer Science and Biology,13,8,11,8,88.97,82.42
+2021,CPSC (Excluding International Students),Combined Major (3401): Computer Science and Chemistry,,3,4,3,91.86,84.9
+2021,CPSC (Excluding International Students),Combined Major (1429): Computer Science and Mathematics,,8,10,8,92.4,87.13
+2021,CPSC (Excluding International Students),Combined Major (1371): Computer Science & Microbiology and Immunology,17,11,6,11,92.25,82.87
+2021,CPSC (Excluding International Students),Combined Major (1391): Computer Science and Physics,,11,5,11,92.12,84.07
+2021,CPSC (Excluding International Students),Combined Major (1375): Computer Science and Statistics (Also in STAT umbrella),,25,26,25,94.5,82.4
+2021,CPSC (Excluding International Students),Major (0185): Mathematical Sciences (MASC) (Also in STAT umbrella),3,1,17,1,,
+2021,STAT,,159,159,258,159,95,79.7
+2021,STAT,Major (0562): Statistics (STAT),,116,157,116,92.81,79.7
+2021,STAT,Combined Major (1375): Computer Science and Statistics (Also in CPSC umbrella),,43,55,43,95,82.4
+2021,STAT,Major (0185): Mathematical Sciences (MASC) (Also in CPSC umbrella),"5 (2 ISI, 3 Domestic)",1,46,1,,
+2021,COGS,,,66,123,66,92.92,74.54
+2021,COGS,Major Cognitive Systems(1225): Cognition and Brain,,55,44,55,90.12,74.54
+2021,COGS,Major Cognitive Systems(1226): Computational Intelligence and Design (Also in CPSC umbrella),"15 (5 ISI, 10 Domestic)",11,79,11,92.92,82.7
+2021,Major,,,,,,,
+2021,Major,Major (0030): Astronomy (ASTR),,4,0,5,81.27,68.22
+2021,Major,Major (0167): Atmospheric Science (ATSC),,3,0,4,85,67.42
+2021,Major,Major (3502): Behavioural Neuroscience (PSYC),98 (+1 direct admit by Steven = 99),98,79,98,93.59,79.2
+2021,Major,Major (0244): Biochemistry (BIOC),127 (+1 student from Warren = 128),127,17,127,95.96,71.41
+2021,Major,Major (3095): Biology (BIOL),416 (+3 ELTR = 419),416,1,416,97.4,57.91
+2021,Major,Major (0409): Chemistry (CHEM),94 (+1 ELTR = 95),67,0,69,92,57.92
+2021,Major,Major (1223): Earth and Ocean Sciences (EOSC),,14,0,20,88,50
+2021,Major,Major (1263): Environmental Sciences (ENSC),68,68,8,67,90.12,60.83
+2021,Major,Major (3428) Geographical Sciences,,12,0,15,85.82,54
+2021,Major,Major (0001): Geophysics,,1,0,1,80.54,80.54
+2021,Major,Major (3193): Geology,,13,0,12,88.8,60.42
+2021,Major,Major (1682): Integrated Sciences (INSC),110,110,55,110,95.59,77.21
+2021,Major,Major (0456): Mathematics (MATH),175 (-1 ELTR = 174),173,14,174,95.06,65.1
+2021,Major,Major (1153): Microbiology and Immunology (MBIM),99 (+1 ELTR = 100),99,185,98,95,82.73
+2021,Major,Major (0311): Pharmacology (PCTH),25,25,60,25,94.74,86.71
+2021,Major,Major (0524) Physics (PHYS),,30,0,36,87.2,61.68
+2021,Combined Major,,,,,,,
+2021,Combined Major,"Combined Major (3382): Biochemistry, Chemistry (BIOC, CHEM)",14,14,1,14,92.2,65.33
+2021,Combined Major,"Combined Major (3440): Chemical Biology (BIOL, CHEM)",45,45,8,43,94.03,69.86
+2021,Combined Major,Combined Major (3096): Science,211 (+1 ELTR = 212),85,0,185,89.31,45.66
+2021,Combined Major,Combined Major (3144): Microbiology and Oceanography,12,8,0,11,81.82,62.92
+2021,Combined Major,Combined Major (3125): Oceanography and Biology,22,20,0,22,91.79,55.3
+2021,Combined Major,Combined Major (3383): Oceanography and Chemistry,,0,0,3,80.92,74.44
+2021,Combined Major,Combined Major (3126): Oceanography and Physics,,1,0,1,78.41,78.41
+2021,Honours,,,,,,,
+2021,Honours,Honours (1136): Biotechnology,21 (+1 from David = 22),21,5,21,95.79,76.68
+2021,Honours,Honours (0577): Fisheries Oceanography,2,0,0,0,0,0
+2021,Honours,Honours (0166): Mathematics (MATH),25,12,0,14,92.29,77
+2021,Honours,Honours (0344): Physics (PHYS),,8,0,8,93.67,78.3
+2021,Honours,"Honours (3221): Cellular, Anatomical and Physiological Sciences (CAPS)",33,33,53,33,95.43,86
+2021,Combined Honours,,,,,,,
+2021,Combined Honours,Combined Honours (3508): Biochemistry and Forensic Science,19,19,2,19,90,74.1
+2021,Combined Honours,Honours (1093): Biophysics (BIOP),25,5,0,7,89.37,72.16
+2021,Combined Honours,"Combined Honours (0206): Chemistry and Mathematics (CHEM, MATH)",,1,0,1,,
+2021,Combined Honours,"Combined Honours (0517): Chemical Physics (CHEM, PHYS)",,1,0,1,,
+2021,Combined Honours,"Combined Honours (0009): Physics and Astronomy (PHYS, ASTR)",,,,,88.81,80.4
+2021,Combined Honours,"Combined Honours (0014): Physics and Mathematics (PHYS, MATH)",,,,,95.35,73.96
+2022,,,,,,,,
+2022,CPSC (Excluding Domestic Student),,142,,,,,
+2022,CPSC (Excluding Domestic Student),Major Cognitive Systems(1226): Computational Intelligence and Design,5,5,33,5,93.48,86.5
+2022,CPSC (Excluding Domestic Student),Major (0376): Computer Science (CPSC) International Students Only,,97,114,97,98.8,83
+2022,CPSC (Excluding Domestic Student),Combined Major (1370): Computer Science and Biology,7,4,0,4,,
+2022,CPSC (Excluding Domestic Student),Combined Major (3401): Computer Science and Chemistry,,0,0,0,0,0
+2022,CPSC (Excluding Domestic Student),Combined Major (1429): Computer Science and Mathematics,,19,15,19,98.6,84.6
+2022,CPSC (Excluding Domestic Student),Combined Major (1371): Computer Science & Microbiology and Immunology,8,1,1,1,,
+2022,CPSC (Excluding Domestic Student),Combined Major (1391): Computer Science and Physics,,5,6,5,89.84,84.13
+2022,CPSC (Excluding Domestic Student),Combined Major (1375): Computer Science and Statistics (Also in STAT umbrella),,9,25,9,95.6,83.65
+2022,CPSC (Excluding Domestic Student),Major (0185): Mathematical Sciences (MASC) (Also in STAT umbrella),2,2,23,3,,
+2022,CPSC (Excluding International Students),,288 +2 ELTR = 290,,,,,
+2022,CPSC (Excluding International Students),Major Cognitive Systems(1226): Computational Intelligence and Design,10,3,34,3,87.71,81.84
+2022,CPSC (Excluding International Students),Major (0376): Computer Science (CPSC) Domestic Students Only,1 ELTR,225,150,225,96.97,81.62
+2022,CPSC (Excluding International Students),Combined Major (1370): Computer Science and Biology,12 (+1 ELTR = 13),6,6,6,95.17,82.09
+2022,CPSC (Excluding International Students),Combined Major (3401): Computer Science and Chemistry,,1,1,1,,
+2022,CPSC (Excluding International Students),Combined Major (1429): Computer Science and Mathematics,,20,17,20,96.29,82.93
+2022,CPSC (Excluding International Students),Combined Major (1371): Computer Science & Microbiology and Immunology,17,8,4,8,87.53,81.6
+2022,CPSC (Excluding International Students),Combined Major (1391): Computer Science and Physics,,5,5,5,93.86,87.67
+2022,CPSC (Excluding International Students),Combined Major (1375): Computer Science and Statistics (Also in STAT umbrella),,20,16,20,97.08,81.75
+2022,CPSC (Excluding International Students),Major (0185): Mathematical Sciences (MASC) (Also in STAT umbrella),3,0,20,0,0,0
+2022,STAT,,159,,,,,
+2022,STAT,Major (0562): Statistics (STAT),,128,108,128,92.7,77.5
+2022,STAT,Combined Major (1375): Computer Science and Statistics (Also in CPSC umbrella),,29,0,29,97.08,81.75
+2022,STAT,Major (0185): Mathematical Sciences (MASC) (Also in CPSC umbrella),"5 (2 ISI, 3 Domestic)",2,43,3,,
+2022,COGS,,63 + 1 ELTR = 64,,,,,
+2022,COGS,Major Cognitive Systems(1225): Cognition and Brain,,55,73,55,88.7,77.29
+2022,COGS,Major Cognitive Systems(1226): Computational Intelligence and Design (Also in CPSC umbrella),,8,67,8,93.48,81.84
+2022,Major,,,,,,,
+2022,Major,Major (0030): Astronomy (ASTR),,7,0,7,93.2,73.15
+2022,Major,Major (0167): Atmospheric Science (ATSC),,6,0,6,88.2,60.21
+2022,,,,,,,,
+2022,Major,Major (0244): Biochemistry (BIOC),120 (=1 ELTR = 121),120,16,119,95.96,71
+2022,Major,Major (3095): Biology (BIOL),400,349,0,365,94.8,52.09
+2022,Major,Major (0409): Chemistry (CHEM),90,50,0,55,97,54.9
+2022,Major,Major (1223): Earth and Ocean Sciences (EOSC),,23,0,30,84.31,56.67
+2022,Major,Major (1263): Environmental Sciences (ENSC),65 (+ 3 ELTR = 68),65,17,64,93.2,67.59
+2022,Major,Major (3428) Geographical Sciences,,10,0,12,83.87,49.71
+2022,Major,Major (0001): Geophysics,,1,0,1,,
+2022,Major,Major (3193): Geology,,21,0,23,92.33,61
+2022,Major,Major (1682): Integrated Sciences (INSC),109 (+1 ELTR = 110),109,38,107,92.62,73.79
+2022,Major,Major (0456): Mathematics (MATH),174 (+1 ELTR = 175),174,31,174,96.12,69.13
+2022,Major,Major (1153): Microbiology and Immunology (MBIM),100,99,124,100,94.9,81.66
+2022,Major ,Major (3742): Neuroscience,150,150,147,151,94.17,79.21
+2022,Major,Major (0311): Pharmacology (PCTH),23,23,47,23,95.06,85.37
+2022,Major,Major (0524) Physics (PHYS),,45,0,49,90.62,52.5
+2022,Combined Major,,,,,,,
+2022,Combined Major,"Combined Major (3382): Biochemistry, Chemistry (BIOC, CHEM)",13,11,0,13,89.12,68.8
+2022,Combined Major,"Combined Major (3440): Chemical Biology (BIOL, CHEM)",43,42,13,42,91.86,73.41
+2022,Combined Major,Combined Major (3096): Science,185,85,0,161,94.15,48.2
+2022,Combined Major,Combined Major (3144): Microbiology and Oceanography,11,11,2,11,83.35,71.7
+2022,Combined Major,Combined Major (3125): Oceanography and Biology,22,18,0,19,88.8,55.85
+2022,Combined Major,Combined Major (3383): Oceanography and Chemistry,,2,0,2,,
+2022,Combined Major,Combined Major (3126): Oceanography and Physics,,1,0,1,,
+2022,Honours,,,,,,,
+2022,Honours,Honours (1136): Biotechnology,21,17,0,17,93.74,74.22
+2022,Honours,Honours (0577): Fisheries Oceanography,2,0,0,0,0,0
+2022,Honours,Honours (0166): Mathematics (MATH),25,9,0,12,87,77
+2022,Honours,Honours (0344): Physics (PHYS),,7,0,7,89.45,81.56
+2022,Honours,"Honours (3221): Cellular, Anatomical and Physiological Sciences (CAPS)",32,32,20,31,94.7,82.79
+2022,Combined Honours,,,,,,,
+2022,Combined Honours,Combined Honours (3508): Biochemistry and Forensic Science,18,18,7,18,93.82,74.09
+2022,Combined Honours,Honours (1093): Biophysics (BIOP),25,2,0,2,92.59,88.65
+2022,Combined Honours,"Combined Honours (0206): Chemistry and Mathematics (CHEM, MATH)",,2,0,2,,
+2022,Combined Honours,"Combined Honours (0517): Chemical Physics (CHEM, PHYS)",,3,0,3,,
+2022,Combined Honours,"Combined Honours (0009): Physics and Astronomy (PHYS, ASTR)",,11,0,10,90.19,74.62
+2022,Combined Honours,"Combined Honours (0014): Physics and Mathematics (PHYS, MATH)",,13,0,13,96.3,77.9
